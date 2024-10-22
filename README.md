@@ -1,14 +1,12 @@
 ### Hii There :wave:
 - 👋 Hi, I’m Pradum Kumar
 - 👀 I’m interested in Web Devlopment and Android Devlopment
-- 🌱 I’m currently learning C || HTML || JAVA || CSS || Java Script || MongoDB || Dart || Flutter  
+- 🌱 I’m currently learning Node || MongoDB || Dart || Flutter  
 - 💞️ I’m looking to collaborate on our Project related Web Devlopment and Android
 - 📫 How to reach me @pradumkumar7929@gmail.com
 
 
 🛠️ Technologies and Tools I use:
-## ⚒️ Technologies and Tools I use:
-
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
