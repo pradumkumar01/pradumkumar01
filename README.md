@@ -1,9 +1,9 @@
 ### Hii There :wave:
 - 👋 Hi, I’m Pradum Kumar
-- 👀 I’m interested in Web Devlopment and Android Development
-- 🌱 I’m currently learning Node || MongoDB || Dart || Flutter  
+- 👀 I’m interested in Flutter Devlopment and Android Development
+- 🌱 I’m currently learning Node.js  
 - 💞️ I’m looking to collaborate on our Project related Web Devlopment and Android
-- 📫 How to reach me @pradumkumar7929@gmail.com
+- 📫 How to reach me @7929pradumkumar@gmail.com
 
 
 🛠️ Technologies and Tools I use:
